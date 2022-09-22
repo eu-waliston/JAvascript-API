@@ -1,2 +1,2 @@
-# JAvascript-API
-Serviço em javascript que armazerna e busca dados em uma planilha do google 
+# Javascript API
+Serviço em javascript que armazena e busca dados em uma planilha do google sheets 
